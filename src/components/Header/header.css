@@ -1,0 +1,25 @@
+header{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    width: 100%;
+    height: 60px;
+    background-color: cadetblue;
+}
+
+.logo {
+    text-decoration: none;
+    font-size: 30px;
+    cursor: pointer;
+    color: antiquewhite;
+    font-weight: bold;
+}
+
+.favoritos {
+    text-decoration: none;
+    cursor: pointer;
+    background-color:antiquewhite;
+    padding: 5px 14px;
+    color:darkred;
+    border-radius: 30px;
+}
